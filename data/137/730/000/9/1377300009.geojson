@@ -69,11 +69,11 @@
         1159285413,
         1159157721
     ],
-    "wof:lastmodified":1554048219,
+    "wof:lastmodified":1601339663,
     "wof:name":"UA1123 (SFO-SLC)",
     "wof:parent_id":1159157721,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -69,11 +69,11 @@
         1159284261,
         1159157711
     ],
-    "wof:lastmodified":1552752201,
+    "wof:lastmodified":1601342424,
     "wof:name":"DL1627 (SFO-MSP)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

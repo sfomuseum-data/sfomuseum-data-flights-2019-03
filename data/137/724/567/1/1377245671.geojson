@@ -73,11 +73,11 @@
         1159157627,
         1360700745
     ],
-    "wof:lastmodified":1553443406,
+    "wof:lastmodified":1601340742,
     "wof:name":"QR3960 (SFO-JFK)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

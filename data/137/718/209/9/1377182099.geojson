@@ -71,11 +71,11 @@
         1159157825,
         1159285413
     ],
-    "wof:lastmodified":1552752171,
+    "wof:lastmodified":1601342402,
     "wof:name":"CM1445 (SEA-SFO)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

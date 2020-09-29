@@ -69,11 +69,11 @@
         1159284261,
         1159157711
     ],
-    "wof:lastmodified":1553270638,
+    "wof:lastmodified":1601340940,
     "wof:name":"DL1445 (SFO-JFK)",
     "wof:parent_id":1159157711,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

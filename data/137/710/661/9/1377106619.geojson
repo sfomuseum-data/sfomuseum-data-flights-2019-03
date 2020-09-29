@@ -67,11 +67,11 @@
         1159283875,
         1159157685
     ],
-    "wof:lastmodified":1551888592,
+    "wof:lastmodified":1601341634,
     "wof:name":"NH8 (NRT-SFO)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

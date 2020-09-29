@@ -67,11 +67,11 @@
         1159285413,
         1159157825
     ],
-    "wof:lastmodified":1553097790,
+    "wof:lastmodified":1601341282,
     "wof:name":"UA2360 (LAS-SFO)",
     "wof:parent_id":1159157825,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -67,11 +67,11 @@
         1159285591,
         1159157811
     ],
-    "wof:lastmodified":1552494083,
+    "wof:lastmodified":1601341922,
     "wof:name":"WN176 (LAX-SFO)",
     "wof:parent_id":1159157811,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

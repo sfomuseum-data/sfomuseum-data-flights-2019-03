@@ -67,11 +67,11 @@
         1159283813,
         1159157753
     ],
-    "wof:lastmodified":1552665780,
+    "wof:lastmodified":1601341401,
     "wof:name":"AS1219 (AUS-SFO)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

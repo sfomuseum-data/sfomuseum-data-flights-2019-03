@@ -69,11 +69,11 @@
         1159285413,
         1159157647
     ],
-    "wof:lastmodified":1552752186,
+    "wof:lastmodified":1601342374,
     "wof:name":"UA1054 (SFO-IAD)",
     "wof:parent_id":1159157647,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

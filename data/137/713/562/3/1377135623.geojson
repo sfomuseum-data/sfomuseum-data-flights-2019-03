@@ -71,11 +71,11 @@
         1159157627,
         1159284613
     ],
-    "wof:lastmodified":1552234483,
+    "wof:lastmodified":1601340353,
     "wof:name":"VS6851 (AMS-SFO)",
     "wof:parent_id":1159157627,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

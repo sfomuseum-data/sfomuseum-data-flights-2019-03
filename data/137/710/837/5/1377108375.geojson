@@ -69,11 +69,11 @@
         1159285413,
         1159157659
     ],
-    "wof:lastmodified":1551888636,
+    "wof:lastmodified":1601341695,
     "wof:name":"UA1549 (SFO-DEN)",
     "wof:parent_id":1159157659,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

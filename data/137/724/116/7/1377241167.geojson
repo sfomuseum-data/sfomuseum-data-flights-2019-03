@@ -73,11 +73,11 @@
         1159157775,
         1159285413
     ],
-    "wof:lastmodified":1553357060,
+    "wof:lastmodified":1601340785,
     "wof:name":"LX3025 (SFO-CDG)",
     "wof:parent_id":1159157775,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

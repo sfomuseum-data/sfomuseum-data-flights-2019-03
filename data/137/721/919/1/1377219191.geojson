@@ -71,11 +71,11 @@
         1159157753,
         1159283813
     ],
-    "wof:lastmodified":1553184194,
+    "wof:lastmodified":1601341338,
     "wof:name":"SQ1303 (IAD-SFO)",
     "wof:parent_id":1159157753,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

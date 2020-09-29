@@ -67,11 +67,11 @@
         1159283649,
         1159157685
     ],
-    "wof:lastmodified":1552752171,
+    "wof:lastmodified":1601342318,
     "wof:name":"AI183 (DEL-SFO)",
     "wof:parent_id":1159157685,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

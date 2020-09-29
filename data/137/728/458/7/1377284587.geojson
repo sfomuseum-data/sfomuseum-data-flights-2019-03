@@ -73,11 +73,11 @@
         1159157667,
         1159283539
     ],
-    "wof:lastmodified":1553875436,
+    "wof:lastmodified":1601341559,
     "wof:name":"VS7522 (SFO-MEX)",
     "wof:parent_id":1159157667,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

@@ -67,11 +67,11 @@
         1159283813,
         1159157649
     ],
-    "wof:lastmodified":1552061560,
+    "wof:lastmodified":1601340661,
     "wof:name":"AS381 (BOS-SFO)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

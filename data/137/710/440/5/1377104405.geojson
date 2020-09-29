@@ -71,11 +71,11 @@
         1159157793,
         1159283813
     ],
-    "wof:lastmodified":1551888584,
+    "wof:lastmodified":1601341605,
     "wof:name":"QF3697 (LAS-SFO)",
     "wof:parent_id":1159157793,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

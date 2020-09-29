@@ -69,11 +69,11 @@
         1159283813,
         1159157649
     ],
-    "wof:lastmodified":1552494177,
+    "wof:lastmodified":1601341864,
     "wof:name":"AS387 (SFO-SEA)",
     "wof:parent_id":1159157649,
     "wof:placetype":"event",
-    "wof:repo":"sfomuseum-data-flight-2019-03",
+    "wof:repo":"sfomuseum-data-flights-2019-03",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
