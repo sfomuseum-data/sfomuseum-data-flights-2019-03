@@ -75,9 +75,9 @@
       1159285043,
       1159283813
     ],
-    "wof:lastmodified": 1651514042,
+    "wof:lastmodified": 1653354150,
     "wof:name": "QF3736 (SFO-RDU)",
-    "wof:parent_id": 102527513,
+    "wof:parent_id": -1,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],

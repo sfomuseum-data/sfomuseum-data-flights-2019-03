@@ -71,9 +71,9 @@
       102534365,
       1360700745
     ],
-    "wof:lastmodified": 1651514079,
+    "wof:lastmodified": 1653354160,
     "wof:name": "B6915 (JFK-SFO)",
-    "wof:parent_id": 102527513,
+    "wof:parent_id": -1,
     "wof:placetype": "event",
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
