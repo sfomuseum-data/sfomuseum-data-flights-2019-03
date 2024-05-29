@@ -75,10 +75,13 @@
       1159284127,
       1159283813
     ],
-    "wof:lastmodified": 1653354150,
+    "wof:lastmodified": 1717005822,
     "wof:name": "CX7964 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

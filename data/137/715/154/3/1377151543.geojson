@@ -75,10 +75,13 @@
       1159285641,
       1159283813
     ],
-    "wof:lastmodified": 1653354143,
+    "wof:lastmodified": 1717005815,
     "wof:name": "LA5135 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

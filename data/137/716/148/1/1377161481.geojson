@@ -74,10 +74,13 @@
       1159157661,
       1159284261
     ],
-    "wof:lastmodified": 1651514010,
+    "wof:lastmodified": 1717005814,
     "wof:name": "VS4542 (SLC-SFO)",
     "wof:parent_id": 1159157661,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

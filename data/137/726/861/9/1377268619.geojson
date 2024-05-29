@@ -70,10 +70,13 @@
       1159284261,
       1159157803
     ],
-    "wof:lastmodified": 1651514066,
+    "wof:lastmodified": 1717005827,
     "wof:name": "DL1257 (SFO-JFK)",
     "wof:parent_id": 1159157803,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

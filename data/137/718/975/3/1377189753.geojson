@@ -74,10 +74,13 @@
       1159157621,
       1159283597
     ],
-    "wof:lastmodified": 1651514031,
+    "wof:lastmodified": 1717005828,
     "wof:name": "UA8491 (YYZ-SFO)",
     "wof:parent_id": 1159157621,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

@@ -74,10 +74,13 @@
       1159157683,
       1159283597
     ],
-    "wof:lastmodified": 1651514002,
+    "wof:lastmodified": 1717005818,
     "wof:name": "SN9591 (YUL-SFO)",
     "wof:parent_id": 1159157683,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

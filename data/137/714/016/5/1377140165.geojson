@@ -70,10 +70,13 @@
       1159285413,
       1159157825
     ],
-    "wof:lastmodified": 1651513996,
+    "wof:lastmodified": 1717005829,
     "wof:name": "UA612 (SFO-PDX)",
     "wof:parent_id": 1159157825,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

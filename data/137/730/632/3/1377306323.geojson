@@ -75,10 +75,13 @@
       1159283697,
       1159285413
     ],
-    "wof:lastmodified": 1653354161,
+    "wof:lastmodified": 1717005831,
     "wof:name": "NZ9036 (BWI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],

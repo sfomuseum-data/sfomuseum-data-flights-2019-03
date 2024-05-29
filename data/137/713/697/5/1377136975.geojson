@@ -70,10 +70,13 @@
       1159283813,
       1159157829
     ],
-    "wof:lastmodified": 1651514004,
+    "wof:lastmodified": 1717005818,
     "wof:name": "AS1193 (EWR-SFO)",
     "wof:parent_id": 1159157829,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2019-03",
     "wof:superseded_by": [],
     "wof:supersedes": [],
